@@ -18,6 +18,7 @@ This is a simple Python program to control and manage the screens in the TUKE Op
 1. Clone or download this repository to your local machine.
 2. Navigate to the project directory.
 3. Run the script with one of the following commands:
+   
    ```bash
    python controller.py 0
    python controller.py 1
