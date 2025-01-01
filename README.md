@@ -4,7 +4,7 @@ This is a simple Python program to control and manage the screens in the TUKE Op
 
 ## Features
 - Reset screens to their default content.
-- Display prank screens on:
+- Display screens on:
   1. Ascii Art (`http://ukazky.kpi.fei.tuke.sk:8080/ascii/ola`)
   2. Matrix Code Rain (`https://pranx.com/matrix-code-rain/`)
   3. Custom Matrix (`http://ukazky.kpi.fei.tuke.sk:8080/matrix.html`)
