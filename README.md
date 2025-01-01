@@ -20,8 +20,8 @@ This is a simple Python program to control and manage the screens in the TUKE Op
 3. Run the script with one of the following commands:
    
    ```bash
-   python controller.py 0
    python controller.py 1
    python controller.py 2
    python controller.py 3
+   python controller.py 0
    
